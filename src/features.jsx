@@ -27,7 +27,7 @@ Time estimates and deadlines.
 Drag-and-drop task reordering."/>
 
 <div>
- <Fcards   title=". Collaboration" image={colab}description ="Assign tasks to team members.
+ <Fcards   title="Collaboration" image={colab}description ="Assign tasks to team members.
 
 Shared projects or boards.
 
